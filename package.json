@@ -16,6 +16,6 @@
     "prepublish": "coffee -o lib/ -c src/"
   },
   "dependencies": {
-    "cson-parser": "^1.1.1"
+    "cson": "^3.0.1"
   }
 }

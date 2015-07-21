@@ -1,19 +1,16 @@
 {
   "name": "cson-loader",
-  "description": "CSON loader module for webpack",
-  "author": "Awnist <hi@awnist.com> (http://awnist.com)",
-  "version": "0.0.5",
+  "description": "CSON loader module for webpack by bevry/cson",
+  "author": "ucym <ucym@users.noreply.github.com>",
+  "version": "0.0.1",
   "main": "./lib/cson-loader",
   "repository": {
     "type": "git",
-    "url": "git@github.com:awnist/cson-loader.git"
+    "url": "git@github.com:ucym/cson-loader.git"
   },
   "license": {
     "type": "Public Domain",
     "url": "http://unlicense.org/"
-  },
-  "scripts": {
-    "prepublish": "coffee -o lib/ -c src/"
   },
   "dependencies": {
     "cson": "^3.0.1"
